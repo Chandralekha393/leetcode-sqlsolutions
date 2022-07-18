@@ -1,5 +1,6 @@
 # Write your MySQL query statement below
 #Solution from leetcode problem 1303. Find the Team Size
+#Write an SQL query to find the team size of each of the employees.
 
 WITH TS AS
 (
